@@ -20,7 +20,8 @@ This assignment made the student use photos to create a 3D object, the goal was 
 I made the extrudes the wrong size, I mirrored everything over the front plane and that messed up all of my mesurements. This is because some of the measurements assumed that the part was mirrored and some did not. If I was to do this assignment again, I would start off by drawing what I see, then contraining, not both at the same time. That decreased my efficiency.
 ## CAD_MultiPartStudio
 ### Description
-This assignment had the same outline as the [Cad SwingArm](#Cad_SwingArm)
+This assignment had the same outline as the [CAD SwingArm](#Cad_SwingArm)
 ### Evidence
 [Onshape Doc Link](https://cvilleschools.onshape.com/documents/21dda76748c3bea6f1b29d41/w/76b9e1e43b147e63ed66770c/e/aa32112cdc3240a29b7b2b40)
 ### Reflection
+On step four I did not extrude the bottom or top cap correctly, this is because there are two faces that you need to extrude, the outer and inner portions of the circle. I only did the outer. Make sure you pay attention to the material, because the material change for the cylinder messed up my weight.
