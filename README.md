@@ -30,6 +30,12 @@ I made the extrudes the wrong size, I mirrored everything over the front plane a
 ### Description
 This assignment had the same outline as the [CAD SwingArm](#Cad_SwingArm)
 ### Evidence
+#### Link
 [Onshape Doc Link](https://cvilleschools.onshape.com/documents/21dda76748c3bea6f1b29d41/w/76b9e1e43b147e63ed66770c/e/aa32112cdc3240a29b7b2b40)
+#### Images
+![Multi-Part Step 1](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153522.png)
+![Multi-Part Step 2](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153532.png)
+![Multi-Part Step 3](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153543.png)
+![Multi-Part Step 4](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153554.png)
 ### Reflection
 On step four I did not extrude the bottom or top cap correctly, this is because there are two faces that you need to extrude, the outer and inner portions of the circle. I only did the outer. Make sure you pay attention to the material, because the material change for the cylinder messed up my weight.
