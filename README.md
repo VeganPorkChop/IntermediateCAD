@@ -19,7 +19,11 @@ The spinner easy, the helical curve I've never done before. The length is a vari
 ### Description
 This assignment made the student use photos to create a 3D object, the goal was to simulate the Onshape Certificate test.
 ### Evidence
+#### Link
 [Onshape Doc Link](https://cvilleschools.onshape.com/documents/3cb84e7119cdffa44e5c4ac2/w/ca95ad765ab4597accf907b3/e/47eb486de1c8b3344547e29c)
+#### Images
+![Image of Swing Arm Stp1](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153134.png)
+![Image of Swing Arm Stp2](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20153151.png)
 ### Reflection
 I made the extrudes the wrong size, I mirrored everything over the front plane and that messed up all of my mesurements. This is because some of the measurements assumed that the part was mirrored and some did not. If I was to do this assignment again, I would start off by drawing what I see, then contraining, not both at the same time. That decreased my efficiency.
 ## CAD_MultiPartStudio
