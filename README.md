@@ -11,7 +11,8 @@ I was student B. Student B was supposed to create the Spinner and Prop. Then bot
 #### Link
 [Onshape Doc Link](https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/7a28a22105602e994b2ce8f2)
 #### Images
-![Image of prop]()
+![Image of prop](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20152548.png)
+![Image of spinner](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20152559.png)
 ### Reflection
 The spinner easy, the helical curve I've never done before. The length is a variable, I didn't know that, dont keep increasing the rotational degree to try and make the length larger.
 ## CAD_SwingArm
