@@ -13,6 +13,7 @@ I was student B. Student B was supposed to create the Spinner and Prop. Then bot
 #### Images
 ![Image of prop](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20152548.png)
 ![Image of spinner](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20152559.png)
+![Assembly of teamworkmakesdreamwork](https://raw.githubusercontent.com/VeganPorkChop/IntermediateCAD/main/Screenshot%202022-10-24%20154527.png)
 ### Reflection
 The spinner easy, the helical curve I've never done before. The length is a variable, I didn't know that, dont keep increasing the rotational degree to try and make the length larger.
 ## CAD_SwingArm
