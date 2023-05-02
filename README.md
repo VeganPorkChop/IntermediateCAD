@@ -46,3 +46,16 @@ MultiPart Step4
 On step four I did not extrude the bottom or top cap correctly, this is because there are two faces that you need to extrude, the outer and inner portions of the circle. I only did the outer. Make sure you pay attention to the material, because the material change for the cylinder messed up my weight.
 ## Onshape Certification
 ### [Onshape Certificate](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/5ecc5164-5b8d-41ab-942f-329bd00dc8ea-graham-gilbert-schroeer-a20d8c3b-96ca-4178-8980-04e204ee991f-certificate.pdf)
+### Reflection
+
+Taking a CAD test that lasted for three hours can be a challenging and exhausting experience. During this time, one has to remain focused and engaged with the task at hand, which can be mentally taxing. However, it can also be a valuable learning experience that helps to develop critical skills and knowledge.
+
+One of the key takeaways from such a test is the importance of time management. With only three hours to complete the test, it becomes essential to plan and prioritize tasks effectively. This requires a clear understanding of the requirements and objectives of the test, as well as a solid grasp of the software and tools being used.
+
+Additionally, a CAD test can highlight areas where one may need to improve their skills or knowledge. This may include learning new techniques or approaches to problem-solving or becoming more familiar with specific features or functions of the software. By identifying these areas of weakness, one can take steps to improve their performance and become a more effective CAD user.
+
+Furthermore, taking a CAD test can also be a humbling experience. It can be challenging to confront one's limitations and areas of weakness, especially in a high-pressure environment. However, by recognizing these shortcomings and working to address them, one can become a more confident and capable CAD user.
+
+Finally, taking a CAD test can be an opportunity to reflect on the value of practice and preparation. As with any skill or discipline, becoming proficient in CAD requires consistent effort and practice. By dedicating time and effort to mastering the software and developing strong problem-solving skills, one can improve their performance on future tests and real-world projects.
+
+Overall, while taking a CAD test that lasted for three hours may have been challenging, it can also be a valuable learning experience that helps to develop critical skills and knowledge. By reflecting on the experience and working to improve weaknesses, one can become a more confident and capable CAD user.
